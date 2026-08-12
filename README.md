@@ -2,6 +2,8 @@
 
 React + TypeScript + Vite で作成したシンプルなタスクボードアプリ。
 
+公開URL: https://odannnnnnnnnao.github.io/02task-board/
+
 ## 機能
 
 - テキスト入力でタスクを追加
